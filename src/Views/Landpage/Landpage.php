@@ -6,5 +6,6 @@
     include_once Config::VIEW_DIR ."Landpage/Sections/Introduction.php";
     include_once Config::VIEW_DIR ."Landpage/Sections/Parcours.php";
     include_once Config::VIEW_DIR ."Landpage/Sections/Projets.php";
+    include_once Config::VIEW_DIR ."Landpage/Sections/Contact.php";
     ?>
 </main>

@@ -1,5 +1,5 @@
-<section id="parcours" class="flex h-dvh flex-col align-middle justify-center w-5/10 ms-auto me-auto ">
-    <h1 class="text-center text-6xl font-bold mb-6">Parcours</h1>
+<section id="parcours" class="flex h-dvh flex-col align-middle justify-center md:w-5/10 ms-auto me-auto ">
+    <h1 class="text-center text-4xl md:text-6xl  font-bold mb-6">Parcours</h1>
 
     <div class="ms-auto me-auto mb-4">
         <button id="school-button" class="text-white bg-blue-marguerite-600 group p-2 border-2 rounded-lg me-2 mb-2 border-blue-marguerite-600 hover:bg-blue-marguerite-600 hover:text-white"><i class="fa-solid fa-graduation-cap w-8 text-xl"></i>Scolaire</button>
