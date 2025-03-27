@@ -16,9 +16,10 @@ if ($_ENV["ENVIRONNEMENT"] === "dev") {
             echo '<script type="module" src="' . $filePath . '"></script>';
         }
 
-        if (isset($manifest['resources/js/main.js'])) {
-            $filePath = $manifest['resources/js/main.js']['file'];
-            echo '<script type="module" src="' . $filePath . '"></script>';
+        if (isset($manifest['resources/js/main.js']['css'])) {
+            foreach ($manifest['resources/js/main.js']['css'] as $cssFile) {
+                echo '<link rel="stylesheet" href="' . $cssFile . '">';
+            }
         }
     }
 }
