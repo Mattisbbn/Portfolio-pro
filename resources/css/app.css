@@ -1,0 +1,18 @@
+@import './fonts.css';
+@import './main.css';
+@import "tailwindcss";
+
+@theme{
+    --color-blue-marguerite-50: #eff2fe;
+    --color-blue-marguerite-100: #e2e6fd;
+    --color-blue-marguerite-200: #cbd0fa;
+    --color-blue-marguerite-300: #abb2f6;
+    --color-blue-marguerite-400: #8a8aef;
+    --color-blue-marguerite-500: #756de7;
+    --color-blue-marguerite-600: #705edc;
+    --color-blue-marguerite-700: #5743bf;
+    --color-blue-marguerite-800: #47389b;
+    --color-blue-marguerite-900: #3d347b;
+    --color-blue-marguerite-950: #241f47;
+}
+
