@@ -1,10 +1,11 @@
 <?php 
 use Helpers\ViewHelper;
+use Config\Config;
 $router = new AltoRouter();
 
 $router->map("GET","/",function(){
     ViewHelper::view(function(){
-        echo("Test");
+        require_once Config::VIEW_DIR . "Landpage/Landpage.php";
     });
 });
 

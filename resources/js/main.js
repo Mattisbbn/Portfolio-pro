@@ -1,3 +1,3 @@
 import '../css/app.css';
-import './test'
-import 'swiper'
+import './landpage'
+import './homepage-swiper'

@@ -6,7 +6,7 @@ export default defineConfig({
         rollupOptions: {
           input: 'resources/js/main.js',
         },
-        outDir: 'public/build'
+        outDir: 'build'
       },
       plugins: [
         tailwindcss(),

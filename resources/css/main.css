@@ -1,3 +1,14 @@
 *{
-    font-family: "Poppins" !important;
+    font-family: "Poppins" ;
 }
+
+::-webkit-scrollbar {
+
+    width: 10px;
+  }
+  
+::-webkit-scrollbar-thumb {
+    background-color: #705EDC;
+    border-radius: 10px;
+  }
+  
