@@ -2,8 +2,8 @@
     <h1 class="text-center text-4xl md:text-6xl  font-bold mb-6">Parcours</h1>
 
     <div class="ms-auto me-auto mb-4">
-        <button id="school-button" class="text-white bg-blue-marguerite-600 group p-2 border-2 rounded-lg me-2 mb-2 border-blue-marguerite-600 hover:bg-blue-marguerite-600 hover:text-white"><i class="fa-solid fa-graduation-cap w-8 text-xl"></i>Scolaire</button>
-        <button id="work-button" class="group p-2 border-2 rounded-lg me-2 mb-2 border-blue-marguerite-600 hover:bg-blue-marguerite-600 hover:text-white"><i class="fa-solid fa-suitcase w-8 text-xl"></i>Professionel</button>
+        <button id="school-button" unselectable="on" class="text-white cursor-pointer bg-blue-marguerite-600 group p-2 border-2 rounded-lg me-2 mb-2 border-blue-marguerite-600 hover:bg-blue-marguerite-600 hover:text-white"><i class="fa-solid fa-graduation-cap w-8 text-xl"></i>Scolaire</button>
+        <button id="work-button" unselectable="on" class="group cursor-pointer p-2 border-2 rounded-lg me-2 mb-2 border-blue-marguerite-600 hover:bg-blue-marguerite-600 hover:text-white"><i class="fa-solid fa-suitcase w-8 text-xl"></i>Professionel</button>
     </div>
 
     <div id="parcours-scolaire" class=" ms-auto me-auto" >
