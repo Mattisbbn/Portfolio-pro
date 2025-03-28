@@ -1,10 +1,6 @@
 @import './fonts.css';
 @import './main.css';
 @import "tailwindcss";
-@import "@fortawesome/fontawesome-free/css/all.css";
-@import "@fortawesome/fontawesome-free/css/fontawesome.css";
-@import "@fortawesome/fontawesome-free/css/solid.css"; /* fas */
-@import "@fortawesome/fontawesome-free/css/brands.css"; /* fab */
 @theme{
     --color-blue-marguerite-50: #eff2fe;
     --color-blue-marguerite-100: #e2e6fd;
