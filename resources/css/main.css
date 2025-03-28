@@ -11,4 +11,11 @@
     background-color: #705EDC;
     border-radius: 10px;
   }
-  
+
+  :root {
+    --swiper-navigation-color: #705EDC;
+  }
+
+  .text-shadow {
+    text-shadow: 2px 2px 5px #0000005d !important;
+}

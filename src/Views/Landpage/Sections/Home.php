@@ -2,9 +2,9 @@
     <div class="lg:w-5/10 flex flex-col m-auto ">
         <h1 class="md:text-6xl text-5xl font-[800] justify-center leading-14 md:leading-16">Salut, je m'appelle <span class="text-blue-marguerite-600">Mattis,</span> je suis en <span class="text-blue-marguerite-600">BTS SIO</span></h1>
         <div class="text-xl font-semibold mt-4 flex flex-wrap">
-            <a href="" class="group p-2 border-2 rounded-lg me-2 mb-2 border-blue-marguerite-600 hover:bg-blue-marguerite-600 hover:text-white">Mon CV <i class="fa-solid fa-file-arrow-down group-hover:text-white  text-blue-marguerite-600"></i></a>
-            <a href="" class="group p-2 border-2 rounded-lg me-2 mb-2 border-blue-marguerite-600 hover:bg-blue-marguerite-600 hover:text-white">Github <i class="fa-brands fa-github group-hover:text-white  text-blue-marguerite-600"></i></a>
-            <a href="" class="group p-2 border-2 rounded-lg me-2 mb-2 border-blue-marguerite-600 hover:bg-blue-marguerite-600 hover:text-white">Linkedin <i class="fa-brands fa-linkedin group-hover:text-white  text-blue-marguerite-600"></i></a>
+            <a target="_blank" href="/documents/CV.pdf" class="group p-2 border-2 rounded-lg me-2 mb-2 border-blue-marguerite-600 hover:bg-blue-marguerite-600 hover:text-white">Mon CV <i class="fa-solid fa-file-arrow-down group-hover:text-white  text-blue-marguerite-600"></i></a>
+            <a target="_blank" href="https://github.com/mattisbbn" class="group p-2 border-2 rounded-lg me-2 mb-2 border-blue-marguerite-600 hover:bg-blue-marguerite-600 hover:text-white">Github <i class="fa-brands fa-github group-hover:text-white  text-blue-marguerite-600"></i></a>
+            <a target="_blank" href="https://www.linkedin.com/in/mattisbbn/" class="group p-2 border-2 rounded-lg me-2 mb-2 border-blue-marguerite-600 hover:bg-blue-marguerite-600 hover:text-white">Linkedin <i class="fa-brands fa-linkedin group-hover:text-white  text-blue-marguerite-600"></i></a>
         </div>
     </div>
     <div class="w-5/10 hidden lg:flex">

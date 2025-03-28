@@ -14,16 +14,17 @@ if (swiperContainer) {
     modules: [Navigation, Pagination, EffectCoverflow],
     effect: 'coverflow',
     grabCursor: true,
+    
     centeredSlides: true,
-    slidesPerView:"auto",
-    spaceBetween: -40,
+    slidesPerView:1.5,
+    spaceBetween: 0,
     coverflowEffect: {
         
-      rotate: 40, // Rotation des slides
+      rotate: 0, // Rotation des slides
       stretch: 0, // Étirement des slides
-      depth: 50, // Profondeur de l'effet 3D
-      modifier: 1, // Multiplicateur de l'effet
-      slideShadows: true, // Ombres des slides
+      depth: 200, // Profondeur de l'effet 3D
+      modifier: 2, // Multiplicateur de l'effet
+      slideShadows: false, // Ombres des slides
     },
     navigation: {
       nextEl: '.swiper-button-next',
