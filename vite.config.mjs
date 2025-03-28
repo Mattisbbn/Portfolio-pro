@@ -25,5 +25,14 @@ export default defineConfig({
         rewrite: (path) => path.replace(/^\/api/, ''),
       },
     },
+    css: {
+      preprocessorOptions: {
+        scss: {
+          additionalData: `@import "@fortawesome/fontawesome-free/scss/fontawesome.scss";
+                          @import "@fortawesome/fontawesome-free/scss/solid.scss";
+                          @import "@fortawesome/fontawesome-free/scss/brands.scss";`
+        }
+      }
+    }
   },
 });
