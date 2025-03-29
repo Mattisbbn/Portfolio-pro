@@ -1,4 +1,4 @@
-<section class="flex h-[90vh]">
+<section class="flex h-[90vh]  mx-auto max-w-9/10">
     <div class="lg:w-5/10 flex flex-col m-auto ">
         <h1 class="md:text-6xl text-5xl font-[800] justify-center leading-14 md:leading-16">Salut, je m'appelle <span class="text-blue-marguerite-600">Mattis,</span> je suis en <span class="text-blue-marguerite-600">BTS SIO</span></h1>
         <div class="text-xl font-semibold mt-4 flex flex-wrap">

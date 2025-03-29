@@ -12,6 +12,7 @@ $router->map("GET","/",function(){
 $router->map("GET", "/projet/[*:projet]", function($projet) {
     $projet = htmlspecialchars($projet);
     $projectDir = Config::VIEW_DIR . "Projects/$projet" . ".php";
+    var_dump($_SERVER["REQUEST_URI"]);
     if(file_exists($projectDir)){
         ViewHelper::view(function() use ($projectDir){
             require_once $projectDir;
