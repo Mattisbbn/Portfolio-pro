@@ -8,8 +8,19 @@
 
 
 <url>
-  <loc>https://mattisbabin.fr/</loc>
-  <lastmod>2025-03-28T07:59:46+00:00</lastmod>
+  <loc>https://www.mattisbabin.fr/</loc>
+  <lastmod>2025-03-31T19:44:16+00:00</lastmod>
+  <priority>1.00</priority>
+</url>
+<url>
+  <loc>https://www.mattisbabin.fr/documents/CV.pdf</loc>
+  <lastmod>2025-03-29T10:35:38+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://www.mattisbabin.fr/projet/ovnyl</loc>
+  <lastmod>2025-03-31T19:44:16+00:00</lastmod>
+  <priority>0.80</priority>
 </url>
 
 
