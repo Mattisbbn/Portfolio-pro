@@ -9,7 +9,7 @@
             "Controllers\\": "src/Controllers/",
             "Helpers\\": "src/Helpers/",
             "Router\\": "src/Router/",
-            "Config\\": "src/Config/"
+            "Config\\": "."
         }
     }
 }

@@ -1,4 +1,4 @@
-<section id="contact" class="flex h-dvh flex-col align-middle justify-center w-8/10  ms-auto me-auto ">
+<section id="contact" class="flex h-dvh flex-col align-middle justify-center  mx-auto max-w-9/10">
     <h1 class="text-center text-4xl md:text-6xl font-bold mb-6">Me contacter</h1>
 
     <div class="mb-4">

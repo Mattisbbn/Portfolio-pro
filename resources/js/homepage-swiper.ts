@@ -18,6 +18,7 @@ if (swiperContainer) {
     centeredSlides: true,
     slidesPerView:1.5,
     spaceBetween: 0,
+    autoHeight: true,
     coverflowEffect: {
         
       rotate: 0, // Rotation des slides
