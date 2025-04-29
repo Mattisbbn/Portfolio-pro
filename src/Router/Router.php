@@ -12,7 +12,6 @@ $router->map("GET","/",function(){
 $router->map("GET", "/projet/[*:projet]", function($projet) {
     $projet = htmlspecialchars($projet);
     $projectDir = Config::VIEW_DIR . "Projects/" . $projet . ".php";
-
     // Vérifiez si le fichier existe
     if (file_exists($projectDir)) {
         ViewHelper::view(function() use ($projectDir) {

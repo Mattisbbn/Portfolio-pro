@@ -12,28 +12,37 @@
             <a href="/projet/ovnyl" id="school-button" class="text-white bg-blue-marguerite-600 group p-2 border-2 rounded-lg cursor-pointer border-blue-marguerite-600 hover:bg-blue-marguerite-600">Voir le projet</a>
           </div>
         </div>
-
+        
+        
         <div class="pro-project swiper-slide flex justify-center items-center relative w-full h-full">
+          <img class=" object-cover rounded-xl" src="/img/projets/click&eat.jpg" alt="Slide 1">
+          <div class="absolute inset-0 flex flex-col items-center justify-center">
+            <p class="text-white text-2xl font-bold pb-2 text-shadow">Click&Eat</p>
+            <a href="/projet/clickneat" id="school-button" class="text-white bg-blue-marguerite-600 group p-2 border-2 rounded-lg cursor-pointer border-blue-marguerite-600 hover:bg-blue-marguerite-600">Voir le projet</a>
+          </div>
+        </div>
+
+
+        <!-- <div class="pro-project swiper-slide flex justify-center items-center relative w-full h-full">
           <img class=" object-cover rounded-xl" src="/img/projets/pepitepeps.jpg" alt="Slide 2">
           <div class="absolute inset-0 flex flex-col items-center text-shadow justify-center">
             <p class="text-white text-2xl font-bold pb-2">Pepite PePs</p>
             <a href="/projet/pepitepeps" id="school-button" class="text-white bg-blue-marguerite-600 group p-2 border-2 rounded-lg cursor-pointer border-blue-marguerite-600 hover:bg-blue-marguerite-600">Voir le projet</a>
           </div>
-        </div>
+        </div> -->
 
 
 
-    <img class="swiper-slide" src="/img/projets/ovnyl.jpg" alt="Image">
 
 
-
+<!-- 
         <div class="school-project swiper-slide flex justify-center items-center relative w-full h-full">
           <img class="object-cover rounded-xl" src="/img/projets/immojs.jpg" alt="Slide 3">
           <div class="absolute inset-0 flex flex-col items-center justify-center">
             <p class="text-white text-2xl font-bold pb-2 drop-shadow-lg text-shadow">Calculette immo JS</p>
             <a href="/ovnyl" id="school-button" class="text-white bg-blue-marguerite-600 group p-2 border-2 rounded-lg cursor-pointer border-blue-marguerite-600 hover:bg-blue-marguerite-600">Voir le projet</a>
           </div>
-        </div>
+        </div> -->
 
       </div>
       <div class="swiper-button-next"></div>

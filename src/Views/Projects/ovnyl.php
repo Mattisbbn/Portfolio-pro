@@ -42,6 +42,7 @@
         <img class="h-14" src="/img/Icons/JS.svg" alt="JS">
         <img class="h-14" src="/img/Icons/Bootstrap.svg" alt="Bootstrap">
         <img class="h-14" src="/img/Icons/paypal.svg" alt="Paypal">
+        <img class="h-14" src="/img/Icons/MySQL.svg" alt="MySQL">
    </div>
 
    <h2 class="text-center mt-10 md:text-4xl text-2xl font-semibold mb-6">Lien du projet</h2>
