@@ -1,6 +1,11 @@
 <section class="mt-6 max-w-5/10 mx-auto mb-5">
     <h1 class="text-center md:text-4xl text-2xl font-semibold mb-10 ">Projet : Click&Eat</h1>
-    <img class="m-auto w-[50vw] rounded-xl" src="/img/projets/click&eat-unblur.jpg" alt="Illustration Ovnyl">
+
+    <swiper>
+        <swiper-slide>
+            <img class="m-auto w-[50vw] rounded-xl" src="/img/projets/click&eat-unblur.jpg" alt="Illustration Ovnyl">
+        </swiper-slide>
+    </swiper>
 
 
 
@@ -40,6 +45,4 @@ Optimiser les échanges entre les différents acteurs du restaurant (administrat
   
    <a href="https://clickneat.mattisbabin.fr" target="_blank" class="text-white bg-blue-marguerite-600 p-2 border-2 rounded-lg cursor-pointer border-blue-marguerite-600 hover:bg-blue-marguerite-600">Accéder au site</a>
    </div>
-   
-   
 </section>
